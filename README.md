@@ -1,6 +1,8 @@
+# Hello there, I'm Reza
 #### 2b || !2b 🤔
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezarostaminikoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezaRostamiNikoo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RezaRostamiNikoo/rezarostaminikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
